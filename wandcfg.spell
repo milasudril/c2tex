@@ -1,0 +1,16 @@
+config_set
+	[
+	components
+		[
+		Wand
+			[
+			herbarium
+				[
+				name[c2tex]
+				authors[Torbjörn^ Rathsman]
+				]
+			paths
+				[sources[.]]
+			]
+		]
+	]
